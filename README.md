@@ -2,7 +2,7 @@
 
 O BemFlow é uma plataforma que integra autoconhecimento e conexão social. O objetivo central é permitir que os usuários registrem suas emoções, identifiquem padrões de comportamento e interajam com uma comunidade voltada ao bem-estar coletivo.
 
-🛠️ Funcionalidades Principais
+*🛠️ Funcionalidades Principais*
 
 Diário Pessoal de Emoções: Registro diário de humor através de ícones, palavras-chave e textos livres. Permite o uso de tags personalizadas (ex: #trabalho, #saúde) e o acompanhamento de hábitos diários.
 
@@ -18,10 +18,14 @@ Diário Colaborativo: Espaço dedicado para grupos (família, amigos ou equipes)
 
 Análises e Relatórios: Geração de gráficos de humor, retrospectivas mensais e exportação de dados em PDF para acompanhamento pessoal ou terapêutico.
 
-🚀 Diferenciais Competitivos
+*🚀 Diferenciais Competitivos*
+
 Diferente de concorrentes como Daylio ou Me+, que focam em rotinas individuais e estatísticas privadas, o Conectar Emoções aposta na:
+
 Conexão Social Anônima: Visualização de um mapa de emoções da comunidade.
+
 Colaboração Direta: Possibilidade de múltiplos usuários interagirem e escreverem em um mesmo diário.
+
 Empatia Comunitária: Ferramentas para enviar mensagens de apoio prontas e reagir a registros de outros usuários de forma segura.
 
 💻 Tecnologias de Suporte
