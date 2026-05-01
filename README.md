@@ -28,8 +28,11 @@ Colaboração Direta: Possibilidade de múltiplos usuários interagirem e escrev
 
 Empatia Comunitária: Ferramentas para enviar mensagens de apoio prontas e reagir a registros de outros usuários de forma segura.
 
-💻 Tecnologias de Suporte
+*💻 Tecnologias de Suporte*
+
 Autenticação Segura: Proteção da identidade e login do usuário.
+
 Sincronização em Tempo Real: Integração com serviços de backend (ex: Firebase).
+
 Privacidade: Dados pessoais protegidos e exibição de emoções coletivas apenas de forma agregada.
 Modo Offline: Sincronização automática de registros após reconexão à internet.
